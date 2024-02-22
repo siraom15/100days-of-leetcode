@@ -90,5 +90,6 @@ Check the map, If map contain differece number <br>
 which mean we've read that number and have its index
 so we can return index of current number (i) and index of difference.
 
-Other case, put the map with number as key and index as value of current number.
+Other case, put the map with current number by
+put number as key and its index as value
 > For now we using O(n) time complexity.
