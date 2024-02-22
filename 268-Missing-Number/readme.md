@@ -54,4 +54,4 @@ Example: [0,1,2,3,5] <br>
 n = 5 since there are 5 numbers, <br>
 so sum of sequnce = ```5/2 * (1+5)``` = 15 <br>
 but actual sum we have ```1+2+3+5``` = 11 <br>
-so that missing number = 15-11 = 4 <br>
+so that missing number = ```15-11``` = 4 <br>
